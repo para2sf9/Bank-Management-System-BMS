@@ -1,4 +1,5 @@
 # Bank Management System - C# WinForms
+A desktop GUI application built with C# WinForms and MongoDB.<br/>
 <img width="465" height="381" alt="image" src="https://github.com/user-attachments/assets/0cea9791-3941-4dff-a505-947be9a532d3" /><br/>
 <img width="1362" height="702" alt="image" src="https://github.com/user-attachments/assets/bf46b921-ad46-4191-a495-30f47afff793" /><br/>
 <img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/0751e1cb-8649-475a-b714-d248dca7fbbf" /><br/>
@@ -11,8 +12,6 @@
 <img width="1170" height="651" alt="image" src="https://github.com/user-attachments/assets/6953e549-3b37-4465-8fb4-59e25e88aea3" /><br/>
 <img width="1174" height="640" alt="image" src="https://github.com/user-attachments/assets/02194167-e912-43c1-9496-9aec716d8e73" /><br/>
 <img width="1170" height="643" alt="image" src="https://github.com/user-attachments/assets/a3881389-2aa5-41d4-91ab-d32f735e1c86" />
-
-A desktop GUI application built with C# WinForms and MongoDB.
 
 ## Requirements
 - .NET 8.0 SDK or later
