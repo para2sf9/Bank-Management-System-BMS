@@ -12,7 +12,7 @@ A desktop GUI application built with C# WinForms and MongoDB.<br/>
 <img width="1170" height="651" alt="image" src="https://github.com/user-attachments/assets/6953e549-3b37-4465-8fb4-59e25e88aea3" /><br/>
 <img width="1174" height="640" alt="image" src="https://github.com/user-attachments/assets/02194167-e912-43c1-9496-9aec716d8e73" /><br/>
 <img width="1170" height="643" alt="image" src="https://github.com/user-attachments/assets/a3881389-2aa5-41d4-91ab-d32f735e1c86" />
-
+<br/>
 ## Requirements
 - .NET 8.0 SDK or later
 - Windows OS
